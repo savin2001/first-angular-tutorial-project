@@ -2,7 +2,7 @@
 
 ## Are you interested
 
-If so, check out Angular docs for the comprehensive tutorial about this shopping cart project.
+If so, check out Angular docs for the comprehensive tutorial about this shopping cart project Click [here] (https://my-first-angular-tutorial.netlify.app/) to view the site.
 
 ##
 
